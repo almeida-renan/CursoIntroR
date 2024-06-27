@@ -63,10 +63,15 @@ WICKHAM, H.; GROLEMUND, G. “R for Data Science: import, tidy, transform, visua
 ## Programação
 
 Aula 1 – 6 de janeiro de 2023
+
 Aula 2 – 13 de janeiro de 2023 
+
 Aula 3 – 20 de janeiro de 2023
+
 Aula 4 – 27 de janeiro de 2023
+
 Aula 5 – 3 de fevereiro de 2023
+
 Aula 6 – 17 de fevereiro de 2023 
 
 *Carga horária*: 12 horas

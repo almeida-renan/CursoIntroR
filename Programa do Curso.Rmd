@@ -1,0 +1,73 @@
+---
+title: "Introdução ao R: Fundamentos da Visualização e Manipulação de Dados"
+author: |
+  | Renan Almeida 
+  | (renan.sralmeida@gmail.com)
+date: "Sextas, 16h às 18h"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Programa do Curso
+
+## Objetivo
+O curso visa capacitar os participantes na manipulação eficiente e na visualização de dados utilizando a linguagem R. Durante o curso, os alunos aprenderão técnicas essenciais para importar, limpar e transformar dados, além de explorar ferramentas poderosas para criar gráficos informativos e elucidativos. Ao final, os participantes estarão aptos a utilizar o R como uma ferramenta robusta para analisar e apresentar dados de forma visualmente impactante e interpretável.
+
+## Pré-requisitos
+Curiosidade e um computador com acesso à internet.
+
+## Conteúdo
+Poderá sofrer alterações, conforme as necessidades. A bibliografia indicada serve apenas de referência para as aulas. A leitura dos textos não é obrigatória. Os *scripts* utilizados ao longo do curso serão disponibilizados aos/às alunos/as.
+
+### Aula 1. Conhecendo o R
+Instalação do R e do R Studio. Entendendo cada janela. R como calculadora. Testes Lógicos. Atribuição de etiquetas. Tipos ou classes dos objetos. Vetores.
+
+AQUINO, J. A. “R para cientistas sociais”. EDITUS: Florianópolis, 2014. Capítulos 2 e 3.
+
+VERZANI, J. “Using R for introductory statistics”. Chapman and Hall/CRC, 2018, Capítulos 1 e 2.
+
+### Aula 2. Pacotes e RMarkdown
+Seleção de elementos em um objeto. Pacotes: como instalar e carregar. Criar documentos em diversos formatos com R Markdown. Diretório de trabalho e endereço dos dados.
+
+GANDRUD, C. “Reproducible research with R and R studio”. Chapman and Hall/CRC, 2016. Capítulo 3.
+
+XIE, Y.; DERVIEUX, C.; RIEDERER, E. “R Markdown Cookbook”. Chapman and Hall/CRC, 2020. Capítulo 3. 
+
+### Aula 3. Importação de Dados
+Remover objetos do ambiente de trabalho. Importando dados: como lidar com diferentes formatos. Data.Frame: o que é e como criar um. Selecionar colunas. Funções úteis para visualização e manipulação básica de dados. 
+
+AQUINO, J. A. “R para cientistas sociais”. EDITUS: Florianópolis, 2014. Capítulos 4 e 5.
+
+WICKHAM, H.; GROLEMUND, G. “R for Data Science: import, tidy, transform, visualize, and model data”. O’Reilly Media, Inc, 2016. Capítulos 5 e 11.
+
+### Aula 4. O Universo Tidyverse
+Baixar dados da internet pelo R. Operador pipe. Pacote dplyr e suas principais funções: select, filter, mutate, summarise e arrange. 
+
+WICKHAM, H.; GROLEMUND, G. “R for Data Science: import, tidy, transform, visualize, and model data”. O’Reilly Media, Inc, 2016. Capítulos 12 e 18.
+
+### Aula 5. Manipulação de Dados
+Joins: inner, left, right, full. Como remover linhas/observações. Renomear colunas. Formatos de dados: wide e long. Como alterar o formato dos dados. Juntar dados de dois data.frames diferentes. 
+
+WICKHAM, H.; GROLEMUND, G. “R for Data Science: import, tidy, transform, visualize, and model data”. O’Reilly Media, Inc, 2016. Capítulos 12 e 13.
+
+### Aula 6. Geração de Gráficos e Tabelas
+Tabelas de frequências simples. Tabelas de referências cruzadas. Gráficos com ggplot2: estéticas, camadas, escalas, rótulos, temas, facetas, geometrias etc. 
+
+AQUINO, J. A. “R para cientistas sociais”. EDITUS: Florianópolis, 2014. Capítulo 8.
+
+WICKHAM, H.; GROLEMUND, G. “R for Data Science: import, tidy, transform, visualize, and model data”. O’Reilly Media, Inc, 2016. Capítulo 3.
+
+## Programação
+
+Aula 1 – 6 de janeiro de 2023
+Aula 2 – 13 de janeiro de 2023 
+Aula 3 – 20 de janeiro de 2023
+Aula 4 – 27 de janeiro de 2023
+Aula 5 – 3 de fevereiro de 2023
+Aula 6 – 17 de fevereiro de 2023 
+
+*Carga horária*: 12 horas
+
